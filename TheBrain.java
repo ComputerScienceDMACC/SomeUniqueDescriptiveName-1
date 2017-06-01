@@ -3,8 +3,7 @@
 public class TheBrain {
 
 	public static void main(String[] args) {
-		System.out.println("does it work?");
-		System.out.println("So far, so good...");
+		System.out.println("It works for me!");
 		// add more
 	}
 }
